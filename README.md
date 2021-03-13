@@ -11,7 +11,7 @@ I'm Ivan, a 19 years old web developer from Moscow.
 
 ### 📊 Github Stats
 
-<a href='https://github.com/rahul-jha98/github-stats-transparent'>
+<a href='https://github.com/l1ve4code/github-stats-transparent'>
   
 ![Stats Overview](https://raw.githubusercontent.com/l1ve4code/github-stats-transparent/output/generated/overview.svg)
 ![Most Used Languages](https://raw.githubusercontent.com/l1ve4code/github-stats-transparent/output/generated/languages.svg)
